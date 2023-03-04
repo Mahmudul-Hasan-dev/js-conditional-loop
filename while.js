@@ -5,5 +5,7 @@ var roastGiven = 0
 while (roastGiven < 8) {
     console.log('here is the roast');
     console.log(roastGiven);
+
+    //variable value increase
     roastGiven++;
 }
